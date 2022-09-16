@@ -1,0 +1,236 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.a1{
+    background: linear-gradient(hsl(293,100%,63%),hsl(264,100%,61%));
+    height: 31rem;
+    width: 22rem;
+    border-radius: 0px 0px 167px 157px;
+}
+.a2{
+    background-color: white;
+    position: absolute;
+    height: 31rem;
+    width: 15rem;
+    top: 4rem;
+    left: 15rem;
+    border-radius: 17px;
+    box-shadow: 0px 0px 10px rgba(45,39,39,0.6);
+}
+.up{
+    height: 26px;
+    width: 113px;
+    position: absolute;
+    left: 67px;
+    border-radius: 14px;
+    background-color: white;
+    border: none;
+  
+}
+.up1{
+    height: 74px;
+   
+    border-radius: 17px 17px 0px 0px;
+    margin-top: 15px;
+    margin-left: 9px;
+    margin-right: 11px;
+    background: linear-gradient(45deg,hsl(264,100%,61%),hsl(293,100%,61%)); 
+}
+.font{
+    background: hsl(270, 20%, 96%);
+    height: 399px;
+    border-radius: 0px 0px 14px 14px;
+    margin: 0px 10px;
+}
+.c1{
+  font-weight: inherit;
+  font-size: 10px;
+  background: #f2e4fd;
+  width: 121px;
+  position: absolute;
+  left: 21px;
+  top: 96px;
+  height: 21px;
+  padding: 9px;
+  border-radius: 12px; 
+}  
+.c2{
+    font-size: 10px;
+    background: #f2e4fd;
+    width: 121px;
+    position: absolute;
+    left: 21px;
+    top: 139px;
+    height: 21px;
+    padding: 9px;
+    border-radius: 12px;  
+}
+.img1{
+    width: 31px;
+position: absolute;
+top: 48px;
+left: 30px;
+border-radius: 18px;
+border: 2px solid hsl(0,0%,100%);
+}
+.name{
+    position: absolute;
+    top: 49px;
+    left: 70px;
+    font-weight: inherit;
+    font-size: 13px;
+    color: hsl(0,0%,100%);
+}
+.work{
+    position: absolute;
+    top: 66px;
+    left: 69px;
+    font-size: 10px;
+    color: hsl(0,0%,100%);
+}
+.img2{
+    display: flex;
+}
+.imga{
+    width: 39px;
+    position: absolute;
+    top: 187px;
+    left: 84px;
+    border-radius: 11px;
+}
+.imgb{
+    width: 39px;
+    position: absolute;
+    top: 187px;
+    left: 134px; 
+    border-radius: 11px;
+}
+.imgc{
+    width: 39px;
+    position: absolute;
+    top: 187px;
+    left: 184px;
+    border-radius: 11px;
+}
+.ca1{
+    color: hsl(276,55%,52%);
+}
+.ca2{
+    color: hsl(276,55%,52%);
+}
+.c3{
+    font-weight: inherit;
+    font-size: 10px;
+    background: hsl(0,0%,100%);
+    width: 121px;
+    position: absolute;
+    left: 82px;
+    top: 233px;
+    height: 21px;
+    padding: 9px;
+    border-radius: 12px;
+}
+.c4{
+    font-weight: inherit;
+    font-size: 10px;
+    background: hsl(0,0%,100%);
+    width: 71px;
+    position: absolute;
+    left: 125px;
+    top: 276px;
+    height: 10px;
+    padding: 9px;
+    border-radius: 12px;
+}
+.c5{
+    font-weight: inherit;
+    font-size: 10px;
+    background: #f2e4fd;
+    width: 121px;
+    position: absolute;
+    left: 20px;
+    top: 310px;
+    height: 31px;
+    padding: 9px;
+    border-radius: 12px;
+}
+
+.ca5{
+    color: hsl(276,55%,52%);
+}
+.ca6{
+    color: hsl(0,0%,100%);
+    padding-left: 24px;
+}
+.ca61{
+    padding-left: 26px;
+    color: hsl(0,0%,100%);
+    font-weight: bold;
+    font-size: 13px;
+}
+.ca7{
+    color: hsl(0,0%,100%);
+    padding-left: 24px;
+}
+.ca71{
+    padding-left: 38px;
+    color: hsl(0,0%,100%);
+    font-weight: bold;
+    font-size: 13px;
+}
+.c6{
+    font-weight: inherit;
+    font-size: 10px;
+    background: linear-gradient(45deg,hsl(293,100%,61%),hsl(264,100%,61%)); 
+    width: 139px;
+    position: absolute;
+    left: 21px;
+    top: 365px;
+    height: 13px;
+    padding: 9px;
+    border-radius: 12px;
+}
+.c7{
+    font-weight: inherit;
+    font-size: 10px;
+    background: linear-gradient(45deg,hsl(293,100%,61%),hsl(264,100%,61%)); 
+    width: 139px;
+    position: absolute;
+    left: 21px;
+    top: 400px;
+    height: 13px;
+    padding: 9px;
+    border-radius: 12px;
+}
+.c8{
+    position: absolute;
+    top: 28rem;
+    left: 16px;
+}
+.enter{
+    width: 208px;
+    height: 34px;
+    border-radius: 16px;
+    border: none;  
+    background: hsl(0,0%,100%);
+}
+.e{
+    color: #8d8585;
+    position: absolute;
+    top: 8px;
+    left: 13px;
+}
+main{
+    display: flex;
+}
+.simple{
+    padding: 209px 0px 3px 344px;
+}
+.pera{
+    padding: 8px 181px 3px 348px;
+}
+.section3{
+    background: black;
+    height: 10px;
+}
